@@ -1,6 +1,8 @@
 # ShortestPathAlgorithm
 Created Tolkien’s MiddleEarth object with random seed generator that computes shortest distance from a random initial location back home with up to 10 different cities to visit. 
 
+topological.cpp contains the code used to run the calculations of this program.
+
 To Run:
 1) Download the code or clone the repo
 2) type "make" into command line
